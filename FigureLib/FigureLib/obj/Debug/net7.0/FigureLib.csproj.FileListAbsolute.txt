@@ -1,0 +1,12 @@
+D:\GitHub\TestFigure\FigureLib\FigureLib\bin\Debug\net7.0\FigureLib.deps.json
+D:\GitHub\TestFigure\FigureLib\FigureLib\bin\Debug\net7.0\FigureLib.dll
+D:\GitHub\TestFigure\FigureLib\FigureLib\bin\Debug\net7.0\FigureLib.pdb
+D:\GitHub\TestFigure\FigureLib\FigureLib\obj\Debug\net7.0\FigureLib.csproj.AssemblyReference.cache
+D:\GitHub\TestFigure\FigureLib\FigureLib\obj\Debug\net7.0\FigureLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\TestFigure\FigureLib\FigureLib\obj\Debug\net7.0\FigureLib.AssemblyInfoInputs.cache
+D:\GitHub\TestFigure\FigureLib\FigureLib\obj\Debug\net7.0\FigureLib.AssemblyInfo.cs
+D:\GitHub\TestFigure\FigureLib\FigureLib\obj\Debug\net7.0\FigureLib.csproj.CoreCompileInputs.cache
+D:\GitHub\TestFigure\FigureLib\FigureLib\obj\Debug\net7.0\FigureLib.dll
+D:\GitHub\TestFigure\FigureLib\FigureLib\obj\Debug\net7.0\refint\FigureLib.dll
+D:\GitHub\TestFigure\FigureLib\FigureLib\obj\Debug\net7.0\FigureLib.pdb
+D:\GitHub\TestFigure\FigureLib\FigureLib\obj\Debug\net7.0\ref\FigureLib.dll
